@@ -305,7 +305,7 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
+                 "type":"area",
                  "height":156.333333333333,
                  "id":14,
                  "name":"silentZone",
@@ -322,7 +322,7 @@
                  "y":546.151515151515
                 }, 
                 {
-                 "class":"area",
+                 "type":"area",
                  "height":253.333333333333,
                  "id":16,
                  "name":"jitsiMeetingRoom",
