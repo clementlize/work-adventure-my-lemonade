@@ -306,7 +306,7 @@
          "objects":[
                 {
                  "type":"area",
-                 "height":156.333333333333,
+                 "height":158,
                  "id":14,
                  "name":"silentZone",
                  "properties":[
@@ -317,9 +317,9 @@
                         }],
                  "rotation":0,
                  "visible":true,
-                 "width":220,
-                 "x":1.78787878787875,
-                 "y":546.151515151515
+                 "width":222,
+                 "x":0,
+                 "y":546
                 }, 
                 {
                  "type":"area",
